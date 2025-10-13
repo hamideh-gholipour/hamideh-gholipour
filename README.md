@@ -1,7 +1,4 @@
 <!-- ================== HERO SECTION ================== -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/220165971?v=4" width="150" height="150" style="border-radius:50%;" alt="Hamideh Gholipour profile picture"/>
-</p>
 
 <h1 align="center">Hi there 👋, I'm Hamideh Gholipour</h1>
 <h3 align="center">Data Scientist | Computer Engineering Graduate | NLP & Applied ML Enthusiast</h3>
