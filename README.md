@@ -15,8 +15,9 @@
 ### 🧠 About Me
 🎓 **Computer Engineering Graduate** with a passion for **Data Science**  
 💡 Skilled in transforming raw data into actionable insights  
-🔍 Passionate about **NLP**, **Applied Deep Learning**, and **ML pipelines**
-🧩 Exploring **ensemble modeling** and **AI explainability** 
+🔍 Passionate about **NLP**, **Applied Deep Learning**, and **ML pipelines**  
+🧩 Exploring **ensemble modeling** and **AI explainability**
+
 
 ---
 
@@ -70,7 +71,6 @@
 
 ---
 
-### ✨ “Transforming data into actionable insights with precision and passion.”
 
 
 
