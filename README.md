@@ -1,23 +1,22 @@
 <!-- ================== HERO SECTION ================== -->
 
-<h1 align="center">Hi there 👋, I'm Hamideh Gholipour</h1>
-<h3 align="center">Data Scientist | Computer Engineering Graduate | NLP & Applied ML Enthusiast</h3>
+<h1 align="left">Hi there 👋, I'm Hamideh Gholipour</h1>
+<h3 align="left">Computer Engineering Graduate | Learning Data Science & NLP</h3>
 
-<p align="center">
+<p align="left">
+I’m currently developing my skills in **Data Science** and **Machine Learning**,  
+with a focus on **Natural Language Processing (NLP)**.  
+I enjoy building practical ML pipelines — from data cleaning and feature engineering to model evaluation and interpretation.  
+I’m also interested in **Artificial Intelligence, Genetic Algorithms, and Statistics**,  
+and I’m learning how to structure projects and create reproducible workflows.  
+</p>
+
+<p align="left">
   <a href="https://www.linkedin.com/in/hamideh-gholipour"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.kaggle.com/hamidehgholipour"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="mailto:hgholipour23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/hamideh-gholipour"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
----
-
-### 🧠 About Me
-🎓 **Computer Engineering Graduate** with a passion for **Data Science**  
-💡 Skilled in transforming raw data into actionable insights  
-🔍 Passionate about **NLP**, **Applied Deep Learning**, and **ML pipelines**  
-🧩 Exploring **ensemble modeling** and **AI explainability**
-
 
 ---
 
@@ -47,14 +46,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamideh-gholipour&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hamideh-gholipour&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
-</p>
-
----
-
 ## 🚀 Featured Project
 
 <p align="center">
@@ -68,9 +59,6 @@
   📈 Achieved top 15% ranking in Kaggle's NLP competition.  
   🔗 Explore the project on <a href="https://www.kaggle.com/code/hamidehgholipour/tweetnlp-pipeline-eda-bertweet-lightgbm-ensemble" target="_blank">Kaggle</a>.
 </p>
-
----
-
 
 
 
