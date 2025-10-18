@@ -29,7 +29,7 @@ and I’m learning how to structure projects and create reproducible workflows.
 
 ---
 
-### 🛠️ Tech Stack  
+###  Tech Stack  
 
 #### 🧰 Languages & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,7 +55,7 @@ and I’m learning how to structure projects and create reproducible workflows.
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
 <p align="center">
   <a href="https://www.kaggle.com/code/hamidehgholipour/tweetnlp-pipeline-eda-bertweet-lightgbm-ensemble" target="_blank">
@@ -64,7 +64,7 @@ and I’m learning how to structure projects and create reproducible workflows.
 </p>
 
 <p align="center">
-  🧠 An end-to-end NLP pipeline for tweet classification using BERTweet and LightGBM ensemble.  
+      An end-to-end NLP pipeline for tweet classification using BERTweet and LightGBM ensemble.  
   📈 Achieved top 15% ranking in Kaggle's NLP competition.  
   🔗 Explore the project on <a href="https://www.kaggle.com/code/hamidehgholipour/tweetnlp-pipeline-eda-bertweet-lightgbm-ensemble" target="_blank">Kaggle</a>.
 </p>
