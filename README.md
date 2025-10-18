@@ -44,7 +44,6 @@ and I’m learning how to structure projects and create reproducible workflows.
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-00C775?style=for-the-badge&logo=lightgbm&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)
 
 #### ☁️ Platforms & APIs  
