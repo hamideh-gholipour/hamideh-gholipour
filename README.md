@@ -12,11 +12,20 @@ and I’m learning how to structure projects and create reproducible workflows.
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hamideh-gholipour-240b4820a" target="_blank">LinkedIn</a> •
-  <a href="https://www.kaggle.com/hamidehgholipour" target="_blank">Kaggle</a> •
-  <a href="mailto:hgholipour23@gmail.com">Email</a> •
-  <a href="https://github.com/hamideh-gholipour" target="_blank">GitHub</a>
+  <a href="https://www.linkedin.com/in/hamideh-gholipour-240b4820a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/hamidehgholipour" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:hgholipour23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/hamideh-gholipour" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
 
 ---
 
