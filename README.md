@@ -7,7 +7,7 @@
 I’m currently developing my skills in **Data Science** and **Machine Learning**,  
 with a focus on **Natural Language Processing (NLP)**.  
 I enjoy building practical ML pipelines — from data cleaning and feature engineering to model evaluation and interpretation.  
-I’m also interested in **Artificial Intelligence, Genetic Algorithms, and Statistics**,  
+I’m also interested in **Artificial Intelligence, Genetic Algorithms, Statistics, and Mathematics**,  
 and I’m learning how to structure projects and create reproducible workflows.  
 </p>
 
@@ -59,8 +59,6 @@ and I’m learning how to structure projects and create reproducible workflows.
   📈 Achieved top 15% ranking in Kaggle's NLP competition.  
   🔗 Explore the project on <a href="https://www.kaggle.com/code/hamidehgholipour/tweetnlp-pipeline-eda-bertweet-lightgbm-ensemble" target="_blank">Kaggle</a>.
 </p>
-
-
 
 
 
