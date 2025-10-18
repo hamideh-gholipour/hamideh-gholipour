@@ -1,21 +1,21 @@
 <!-- ================== HERO SECTION ================== -->
 
 <h1 align="left">Hi there 👋, I'm Hamideh Gholipour</h1>
-<h3 align="left">Computer Engineering Graduate | Learning Data Science & NLP</h3>
+<h3 align="left"><strong>Computer Engineering Graduate | Learning Data Science & NLP</strong></h3>
 
 <p align="left">
-I’m currently developing my skills in **Data Science** and **Machine Learning**,  
-with a focus on **Natural Language Processing (NLP)**.  
+I’m currently developing my skills in <strong>Data Science</strong> and <strong>Machine Learning</strong>,  
+with a focus on <strong>Natural Language Processing (NLP)</strong>.  
 I enjoy building practical ML pipelines — from data cleaning and feature engineering to model evaluation and interpretation.  
-I’m also interested in **Artificial Intelligence, Genetic Algorithms, Statistics, and Mathematics**,  
-and I’m learning how to structure projects and create reproducible workflows.  
+I’m also interested in <strong>Artificial Intelligence, Genetic Algorithms, and Statistics</strong>,  
+and I’m learning how to structure projects and create reproducible workflows.
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hamideh-gholipour"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.kaggle.com/hamidehgholipour"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="mailto:hgholipour23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/hamideh-gholipour"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/hamideh-gholipour-240b4820a" target="_blank">LinkedIn</a> •
+  <a href="https://www.kaggle.com/hamidehgholipour" target="_blank">Kaggle</a> •
+  <a href="mailto:hgholipour23@gmail.com">Email</a> •
+  <a href="https://github.com/hamideh-gholipour" target="_blank">GitHub</a>
 </p>
 
 ---
@@ -59,7 +59,5 @@ and I’m learning how to structure projects and create reproducible workflows.
   📈 Achieved top 15% ranking in Kaggle's NLP competition.  
   🔗 Explore the project on <a href="https://www.kaggle.com/code/hamidehgholipour/tweetnlp-pipeline-eda-bertweet-lightgbm-ensemble" target="_blank">Kaggle</a>.
 </p>
-
-
 
 
